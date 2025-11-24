@@ -1,0 +1,6 @@
+streamlit>=1.0.0
+pandas
+yfinance
+plotly
+requests
+beautifulsoup4
